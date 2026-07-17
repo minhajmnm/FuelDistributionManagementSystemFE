@@ -1,0 +1,44 @@
+// Colors
+$primary-red: #820000;
+$primary-red-dark: #b60106;
+$light-red-bg: #fbe6e6;
+$border-red-light: rgba(130, 0, 0, 0.25);
+$table-row-border: rgba(179, 120, 120, 0.58);
+$divider-red: rgba(217, 70, 70, 0.2);
+$red-gradient: linear-gradient(90deg, #b60106 0%, #820000 100%);
+$red-gradient-135: linear-gradient(135deg, #b60106 0%, #820000 100%);
+
+// Status Colors
+$status-available-bg: #8af79d;
+$status-available-border: #398a39;
+$status-available-text: #0b2f06;
+
+$status-low-bg: rgba(222, 218, 97, 0.7);
+$status-low-border: #d0ca10;
+$status-low-text: #a83012;
+
+$status-out-bg: rgba(255, 199, 199, 0.6);
+$status-out-border: rgba(208, 16, 16, 0.6);
+$status-out-text: #a83012;
+
+$status-active-bg: #e6f4ea;
+$status-active-text: #1e8e3e;
+$status-active-border: #ceead6;
+
+$status-deactive-bg: #f1f3f4;
+$status-deactive-text: #5f6368;
+$status-deactive-border: #e8eaed;
+
+// Fuel Badge Colors
+$petrol92-color: #de2626;
+$petrol92-bg: rgba(253, 236, 236, 0.55);
+
+$petrol95-color: #9333ea;
+$petrol95-bg: rgba(246, 238, 254, 0.55);
+
+$diesel-color: #2563eb;
+$diesel-bg: rgba(233, 239, 253, 0.55);
+
+// Fonts
+$font-inter: 'Inter', sans-serif;
+$font-poppins: 'Poppins', sans-serif;
